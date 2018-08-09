@@ -1,0 +1,1 @@
+scp -r -p /app/templates/images/archive-images.tar.gz user@dt.eleven-labs.com:/temp
